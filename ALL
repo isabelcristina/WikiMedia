@@ -1,0 +1,27 @@
+WIKIMEDIA
+======
+
+Isabel Cristina ; Bruna Lopes ; Rafaela Maria ; Jhonathan Alves ; Andrey Beltrão
+
+
+WIKIMEDIA - INTRODUÇÃO
+
+- Software livre, que permite que seus desenvolvedores compartilhem informações sobre seu código fonte e, desta forma sempre se consiga melhorar o programa. Tudo o que você precisa para montar sua wiki vem em um arquivo compactado, desta forma, basta descompactá-lo e por mãos à obra. 
+MediaWiki usa PHP para processar os dados e MySQL para gerenciar o banco de dados, desta forma você precisa destas duas ferramentas e, obviamente, o mínimo de conhecimento em ambas.
+Para usar o software é bastante simples, tendo apenas que aprender a linguagem do 'wikimedia'.
+
+História
+
+- O MediaWiki foi originalmente escrito para a Wikipédia pelo estudante e programador alemão Magnus Manske. O website anterior utilizava UseModWiki, no qual utilizava-se Perl, e em seguida foi alterado para PHP com uma nova versão em 25 de Janeiro de 2002. O dia é conhecido entre a comunidade Wikipedista como o Dia Magnus. Em meados de 2002 o software foi reescrito e melhorado, e desde aí foi desenvolvido a partir do código base. A partir de 2003, o programa anterior, sem nome, adotou o nome "MediaWiki" e novas versões públicas começaram a ser criadas tendo em mente utilização externa, além dos projectos da Wikimedia.
+
+Extensões
+
+- As extensões podem adicionar novas tags à marcação usada para escrever artigos, adicionar novos recursos administrativos e de relatório por meio da criação de páginas especiais, alterar a aparência do wiki por meio de aparências de formatação e até mesmo realizar integração com métodos de autenticação externos. As extensões são escritas em PHP e fazem uso de vários hooks, classes e métodos internos do MediaWiki para desempenhar suas tarefas eficientemente. Algumas versões de extensões:
+
+ Eclipse V3.5.2 – Suporte para uma ampla gama de ambientes e linguagens de programação.
+ PHP Development Tools (PDT) V2.2.0 – Um plug-in PHP para Eclipse.
+ MediaWiki V1.15.3 – A versão estável atual do MediaWiki
+
+Como funciona ?
+
+O site mais famoso a usar o MediaWiki tem sido a Wikipédia, e os outros projetos da Wikimedia. Mas outros sites importantes também adotaram o MediaWiki. Alguns usuários desapontados com a Wikipédia iniciaram projetos semelhantes, usando o mesmo software para compartilhar conteúdo. Por exemplo, o Conservapedia1 . Muitas das ferramentas usadas na Wikipédia, provenientes ou que usam o MediaWiki podem ser usadas em outros na mesma plataforma. Isso acontece porque todos os sites MediaWiki compartilham a mesma estrutura.2
